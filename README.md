@@ -1,0 +1,2 @@
+# VerificareJurnalVanzari
+VerificareJurnalVanzari
